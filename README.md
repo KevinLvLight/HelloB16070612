@@ -1,3 +1,5 @@
 # HelloB16070612
-Android课程第一个作业
-新建一个Android程序，体验过程。
+
+### Android作业
+#### 题目要求：
+> 新建HelloWorld并签名发布
